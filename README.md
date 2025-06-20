@@ -6,7 +6,7 @@ Para esse case foi criado um ambiente virtual isolado.
 
 Portanto caso queira replicar basta seguir os passos abaixo:
 
-1 - fazer o clone da pasta através do link : https://github.com/felmback/bot_sidra.git.
+1 - fazer o clone da pasta através do link : **https://github.com/felmback/bot_sidra**.
 
 2 - ter o python acima do 3.8 instalado.
 
