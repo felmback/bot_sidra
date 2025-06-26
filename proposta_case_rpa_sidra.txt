@@ -3,7 +3,7 @@
 Como resposta para este item, crie um arquivo (txt), disponibilize-o no referido projeto do GitHub e inclua no seu conteúdo um texto explicativo (com suas próprias palavras) que descreva uma proposta de solução.
 
 
-##################################################################
+++
 
 
 
